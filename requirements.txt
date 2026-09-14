@@ -19,6 +19,7 @@ matplotlib-inline==0.2.2
 nest-asyncio2==1.7.2
 numpy==2.5.3
 packaging==26.3
+pylatexenc==2.10
 parso==0.8.7
 pexpect==4.9.0
 pillow==12.3.0
@@ -31,8 +32,8 @@ Pygments==2.21.0
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
 pyzmq==27.2.0
-qiskit==2.5.2
-qiskit-aer==0.17.2
+qiskit==1.4.6
+qiskit-aer==0.16.4
 rustworkx==0.18.1
 scipy==1.18.1
 six==1.17.0
